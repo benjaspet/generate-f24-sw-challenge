@@ -1,0 +1,244 @@
+[
+  {
+    "imdbID": "tt1285016",
+    "title": "The Social Network",
+    "year": "2010",
+    "genre": "Biography, Drama",
+    "director": "David Fincher",
+    "actors": "Jesse Eisenberg, Andrew Garfield, Justin Timberlake",
+    "plot": "On a fall night in 2003, Harvard undergrad and computer programming genius Mark Zuckerberg sits down at his computer and heatedly begins working on a new idea. In a fury of blogging and programming, what begins in his dorm room soon becomes a global social network and a revolution in communication. A mere six years and 500 million friends later, Mark Zuckerberg is the youngest billionaire in history... but for this entrepreneur, success leads to both personal and legal complications.",
+    "rated": "PG-13",
+    "runtime": "120 min",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "95/100"
+      }
+    ]
+  },
+  {
+    "imdbID": "tt2582802",
+    "title": "Whiplash",
+    "year": "2014",
+    "genre": "Drama, Music",
+    "director": "Damien Chazelle",
+    "actors": "Miles Teller, J.K. Simmons, Melissa Benoist",
+    "plot": "Nineteen year old Andrew Niemann wants to be the greatest jazz drummer in the world, in a league with Buddy Rich. This goal is despite not coming from a pedigree of greatest, musical or otherwise, with Jim, his high school teacher father, being a failed writer. Andrew is starting his first year at Shaffer Conservatory of Music, the best music school in the United States. At Shaffer, being the best means being accepted to study under Terence Fletcher and being asked to play in his studio band, which represents the school at jazz competitions. Based on their less than positive first meeting, Andrew is surprised that Fletcher asks him to join the band, albeit in the alternate drummer position which he is more than happy to do initially. Andrew quickly learns that Fletcher operates on fear and intimidation, never settling for what he considers less than the best each and every time. Being the best in Fletcher's mind does not only entail playing well, but knowing that you're playing well and if not what you're doing wrong. His modus operandi creates an atmosphere of fear and of every man or woman for him/herself within the band. Regardless, Andrew works hard to be the best. He has to figure out his life priorities and what he is willing to sacrifice to be the best. The other question becomes how much emotional abuse he will endure by Fletcher to reach that greatness, which he may believe he can only achieve with the avenues opened up by Fletcher.",
+    "rated": "R",
+    "runtime": "106 min",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "89/100"
+      }
+    ]
+  },
+  {
+    "imdbID": "tt0062622",
+    "title": "2001: A Space Odyssey",
+    "year": "1968",
+    "genre": "Adventure, Sci-Fi",
+    "director": "Stanley Kubrick",
+    "actors": "Keir Dullea, Gary Lockwood, William Sylvester",
+    "plot": "\"2001\" is a story of evolution. Sometime in the distant past, someone or something nudged evolution by placing a monolith on Earth (presumably elsewhere throughout the universe as well). Evolution then enabled humankind to reach the moon's surface, where yet another monolith is found, one that signals the monolith placers that humankind has evolved that far. Now a race begins between computers (HAL) and human (Bowman) to reach the monolith placers. The winner will achieve the next step in evolution, whatever that may be.",
+    "rated": "G",
+    "runtime": "149 min",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ]
+  },
+  {
+    "imdbID": "tt15239678",
+    "title": "Dune: Part Two",
+    "year": "2024",
+    "genre": "Action, Adventure, Drama",
+    "director": "Denis Villeneuve",
+    "actors": "Timothée Chalamet, Zendaya, Rebecca Ferguson",
+    "plot": "Duke Paul Atreides joins the Fremen and begins a spiritual and martial journey to become Muad'dib, while trying to prevent the horrible but inevitable future he's witnessed: a Holy War in his name, spreading throughout the known universe.",
+    "rated": "PG-13",
+    "runtime": "166 min",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      }
+    ]
+  },
+  {
+    "imdbID": "tt2084970",
+    "title": "The Imitation Game",
+    "year": "2014",
+    "genre": "Biography, Drama, Thriller",
+    "director": "Morten Tyldum",
+    "actors": "Benedict Cumberbatch, Keira Knightley, Matthew Goode",
+    "plot": "It is based on the real life story of legendary cryptanalyst Alan Turing. The film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+    "rated": "PG-13",
+    "runtime": "114 min",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ]
+  },
+  {
+    "imdbID": "tt1074638",
+    "title": "Skyfall",
+    "year": "2012",
+    "genre": "Action, Adventure, Thriller",
+    "director": "Sam Mendes",
+    "actors": "Daniel Craig, Javier Bardem, Naomie Harris",
+    "plot": "When James Bond's (Daniel Craig's) latest assignment goes gravely wrong and Agents around the world are exposed, MI6 is attacked, forcing (M Dame Judi Dench) to relocate the agency. These events cause her authority and position to be challenged by Gareth Mallory (Ralph Fiennes), the new Chairman of the Intelligence and Security Committee. With MI6 now compromised from both inside and out, M is left with one ally she can trust: Bond. 007 takes to the shadows, aided only by field agent, Miss Eve Moneypenny (Naomie Harris), following a trail to the mysterious Tiago Rodriguez, a.k.a. Raoul Silva (Javier Bardem), whose lethal and hidden motives have yet to reveal themselves.",
+    "rated": "PG-13",
+    "runtime": "143 min",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "81/100"
+      }
+    ]
+  },
+  {
+    "imdbID": "tt2278388",
+    "title": "The Grand Budapest Hotel",
+    "year": "2014",
+    "genre": "Adventure, Comedy, Crime",
+    "director": "Wes Anderson",
+    "actors": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",
+    "plot": "This movie recounts the adventures of M. Gustave (Ralph Fiennes), a legendary concierge at a famous European hotel between the wars, and Zero Moustafa (Tony Revolori), the lobby boy who becomes his most trusted friend. The story involves the theft and recovery of a priceless Renaissance painting and the battle for an enormous family fortune - all against the backdrop of a suddenly and dramatically changing continent.",
+    "rated": "R",
+    "runtime": "99 min",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "88/100"
+      }
+    ]
+  },
+  {
+    "imdbID": "tt0432283",
+    "title": "Fantastic Mr. Fox",
+    "year": "2009",
+    "genre": "Animation, Adventure, Comedy",
+    "director": "Wes Anderson",
+    "actors": "George Clooney, Meryl Streep, Bill Murray",
+    "plot": "This is the story of Mr. Fox (George Clooney) and his wild ways of hen heckling, turkey taking, and cider sipping, nocturnal, instinctive adventures. He has to put his wild days behind him and do what fathers do best: be responsible. He is too rebellious. He is too wild. He is going to try \"just one more raid\" on the three nastiest, meanest farmers that are Walter Boggis (Robin Hurlstone), Nathan Bunce (Hugo Guinness), and Franklin Bean (Sir Michael Gambon). It is a tale of crossing the line of family responsibilities and midnight adventure and the friendships and awakenings of this country life that is inhabited by Fantastic Mr. Fox and his friends.",
+    "rated": "PG",
+    "runtime": "87 min",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ]
+  },
+  {
+    "imdbID": "tt0264464",
+    "title": "Catch Me If You Can",
+    "year": "2002",
+    "genre": "Biography, Crime, Drama",
+    "director": "Steven Spielberg",
+    "actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken",
+    "plot": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+    "rated": "PG-13",
+    "runtime": "141 min",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ]
+  },
+  {
+    "imdbID": "tt22022452",
+    "title": "Inside Out 2",
+    "year": "2024",
+    "genre": "Animation, Adventure, Comedy",
+    "director": "Kelsey Mann",
+    "actors": "Amy Poehler, Maya Hawke, Kensington Tallman",
+    "plot": "A sequel that features Riley entering puberty and experiencing brand new, more complex emotions as a result. As Riley tries to adapt to her teenage years, her old emotions try to adapt to the possibility of being replaced.",
+    "rated": "PG",
+    "runtime": "96 min",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      }
+    ]
+  }
+]
